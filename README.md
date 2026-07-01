@@ -16,7 +16,7 @@ Materials based approaches to True Random Number Generation (TRNG) are an active
 
 ## Overview
 
-The thesis investigates a ferroelectric capacitor (FeCAP) with a SRO/PZT/YBCO material stack, grown by Pulsed Laser Deposition, as a candidate physically unclonable function (PUF) for true random number generation. Rather than reading the end polarization state after a switching pulse (the standard approach in prior ferroelectric TRNG literature), this work extracts stochasticity directly from the switching *dynamics* :PUND (Positive-Up-Negative-Down) current traces.
+The thesis investigates a ferroelectric capacitor (FeCAP) with a SRO/PZT/YBCO material stack, grown by Pulsed Laser Deposition, as a candidate physically unclonable function (PUF) for true random number generation. Rather than reading the end polarization state after a switching pulse (the standard approach in prior ferroelectric TRNG literature), this work extracts stochasticity directly from the switching *dynamics* — hysteresis and PUND (Positive-Up-Negative-Down) current traces — to isolate cycle-to-cycle variation from circuit noise.
 
 Key results:
 - Hysteresis and PUND measurements on SRO/PZT/YBCO devices show cycle-to-cycle current variation resembling Barkhausen pulses, in contrast to smooth, repeatable switching in SRO/PZT/Pt control devices.
