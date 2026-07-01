@@ -1,5 +1,7 @@
 # Characterization of Probabilistic Polarization in Ferroelectric PZT Thin Films
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21110257.svg)](https://doi.org/10.5281/zenodo.21110257)
+
 **Rohan S. Pankaj**
 Undergraduate Honors Thesis, Brown University School of Engineering
 Submitted April 2026, in partial fulfillment of the Sc.B. in Electrical Engineering
@@ -53,6 +55,8 @@ Measurements were automated and analyzed using [PIEC (Python Integrated Experime
 
 See [`CITATION.cff`](./CITATION.cff) for machine-readable citation metadata (GitHub renders a "Cite this repository" button from this file).
 
-Pankaj, R. S. (2026). *Characterization of Probabilistic Polarization in Ferroelectric PZT Thin Films.* Undergraduate Honors Thesis, Brown University School of Engineering.
+This repository (thesis + code) is archived on Zenodo at **[10.5281/zenodo.21110257](https://doi.org/10.5281/zenodo.21110257)**; the underlying measurement data is archived separately at **[10.5281/zenodo.21109514](https://doi.org/10.5281/zenodo.21109514)**.
+
+Pankaj, R. S. (2026). *Characterization of Probabilistic Polarization in Ferroelectric PZT Thin Films.* Undergraduate Honors Thesis, Brown University School of Engineering. https://doi.org/10.5281/zenodo.21110257
 
 Data: Pankaj, R. S. (2026). Data for "Characterization of Probabilistic Polarization in Ferroelectric PZT Thin Films" [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21109514

@@ -5,6 +5,9 @@ authors:
   - family-names: "Pankaj"
     given-names: "Rohan S."
 type: thesis
+version: "1.0.0"
+date-released: "2026-07-01"
+doi: "10.5281/zenodo.21110257"
 repository-code: "https://github.com/RohanPankaj/Brown-University-Honors-Thesis"
 url: "https://github.com/RohanPankaj/Brown-University-Honors-Thesis"
 abstract: >-
@@ -34,6 +37,15 @@ preferred-citation:
   month: 4
   url: "https://github.com/RohanPankaj/Brown-University-Honors-Thesis/blob/main/Rohan%20Pankaj%20Undergraduate%20Honors%20Thesis%20Signed.pdf"
 references:
+  - type: software
+    title: "Characterization of Probabilistic Polarization in Ferroelectric PZT Thin Films (repository archive)"
+    authors:
+      - family-names: "Pankaj"
+        given-names: "Rohan S."
+    version: "1.0.0"
+    year: 2026
+    doi: "10.5281/zenodo.21110257"
+    url: "https://doi.org/10.5281/zenodo.21110257"
   - type: dataset
     title: "Data for \"Characterization of Probabilistic Polarization in Ferroelectric PZT Thin Films\""
     authors:
