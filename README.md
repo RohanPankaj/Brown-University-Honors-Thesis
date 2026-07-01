@@ -47,9 +47,11 @@ Chapter breakdown: Introduction (motivation, ferroelectric background, LGD theor
 
 ## Software
 
-Measurements were automated and analyzed using [PIEC (Python Integrated Experimental Control)](https://github.com/ElPsyKurisu/piec). Material stack simulations used the accompanying open-source FeSim software.
+Measurements were automated and analyzed using [PIEC (Python Integrated Experimental Control)](https://github.com/ElPsyKurisu/piec). Material stack simulations (Figure 14) used the accompanying open-source [FeSim](https://github.com/RohanPankaj/FeSim) software.
 
 ## Citation
+
+See [`CITATION.cff`](./CITATION.cff) for machine-readable citation metadata (GitHub renders a "Cite this repository" button from this file).
 
 Pankaj, R. S. (2026). *Characterization of Probabilistic Polarization in Ferroelectric PZT Thin Films.* Undergraduate Honors Thesis, Brown University School of Engineering.
 

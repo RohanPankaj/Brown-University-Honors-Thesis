@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this thesis or its accompanying dataset, please cite as below."
+title: "Characterization of Probabilistic Polarization in Ferroelectric PZT Thin Films"
+authors:
+  - family-names: "Pankaj"
+    given-names: "Rohan S."
+type: thesis
+repository-code: "https://github.com/RohanPankaj/Brown-University-Honors-Thesis"
+url: "https://github.com/RohanPankaj/Brown-University-Honors-Thesis"
+abstract: >-
+  Materials based approaches to True Random Number Generation (TRNG) are an
+  active area of research with a wide range of applications in modeling,
+  simulation, and cybersecurity. This thesis presents the detailed theory and
+  design of a FeCAP which utilizes inherent stochasticity in ferroelectric
+  switching dynamics to create a Physically Unclonable Function (PUF), using
+  an oxygen-deficient YBCO layer as the top electrode in a SRO/PZT/YBCO
+  material stack.
+keywords:
+  - ferroelectrics
+  - PZT
+  - thin films
+  - physically unclonable function
+  - true random number generation
+  - stochastic switching
+preferred-citation:
+  type: thesis
+  title: "Characterization of Probabilistic Polarization in Ferroelectric PZT Thin Films"
+  authors:
+    - family-names: "Pankaj"
+      given-names: "Rohan S."
+  institution:
+    name: "Brown University, School of Engineering"
+  year: 2026
+  month: 4
+  url: "https://github.com/RohanPankaj/Brown-University-Honors-Thesis/blob/main/Rohan%20Pankaj%20Undergraduate%20Honors%20Thesis%20Signed.pdf"
+references:
+  - type: dataset
+    title: "Data for \"Characterization of Probabilistic Polarization in Ferroelectric PZT Thin Films\""
+    authors:
+      - family-names: "Pankaj"
+        given-names: "Rohan S."
+    year: 2026
+    doi: "10.5281/zenodo.21109514"
+    url: "https://doi.org/10.5281/zenodo.21109514"
+  - type: software
+    title: "FeSim"
+    authors:
+      - family-names: "Pankaj"
+        given-names: "Rohan S."
+    repository-code: "https://github.com/RohanPankaj/FeSim"
+  - type: software
+    title: "PIEC: Python Integrated Experimental Control"
+    repository-code: "https://github.com/ElPsyKurisu/piec"
